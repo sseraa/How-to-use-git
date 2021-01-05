@@ -1,5 +1,5 @@
 # How-to-use-git
-::check::I still don't know how to effectively use git and github. Let's start know!
+::check:: I still don't know how to effectively use git and github. Let's start know!
 
 자료 :  <br>
 1. 누구나 쉽게 이해할 수 있는 git 입문 https://backlog.com/git-tutorial/kr/intro/intro2_4.html <br>
